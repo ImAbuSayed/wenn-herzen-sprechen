@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wenn-herzen-sprechen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Wenn Herzen sprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-herzen-sprechen/) |
+| **Get License** | [Get License For Wenn Herzen sprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-herzen-sprechen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tiefschwarzer Benz, die Stadtlichter rasen vorbei
+> Dein Blick ist wie Feuer im Club, Baby, no lie
+> Spürst du die 808s flippen, wie der Boden jetzt bebt?
+> Komm ein Stück näher zu mir, weil mein Herz für dich schlägt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
