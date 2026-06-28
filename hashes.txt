@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wenn Herzen sprechen
+
+This log tracks the cryptographic history and versioning for the song **Wenn Herzen sprechen** (wenn-herzen-sprechen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:05:53.031916 | `v1` | `0a2de8782d8eadebfea17ac9352246ae91fe3c6bae4fd61a0d96721f65e0be49` | `64a41c32bd17587d269dbd9620047e48d38e604afdd0a0c4435689b41999ae62` | `2026-06-28_wenn-herzen-sprechen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
