@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wenn-herzen-sprechen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Wenn Herzen sprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-herzen-sprechen/) |
+| **Get License** | [License this song: Wenn Herzen sprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-herzen-sprechen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4579)
 
 ---
 
